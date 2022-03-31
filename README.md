@@ -1,6 +1,6 @@
 # Tetris Project
 ## Introduction
-As part of the 2021 ECM1417 Computer Science course at University of Exeter, I have been tasked with creating a tetris game using various web technologies.
+As part of the 2022 ECM1417 Computer Science course at University of Exeter, I have been tasked with creating a tetris game using various web technologies.
 
 ## Controls
 **Left Arrow :** Move Left
