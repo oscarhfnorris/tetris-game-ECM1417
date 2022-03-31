@@ -1,0 +1,1 @@
+<button type="submit" onclick="window.location.href='tetris.php';" class="form-box" id="logged"><h2>Click here to play!</h2></button>
